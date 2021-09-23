@@ -1,0 +1,1 @@
+export const UNAUTHORIZED_CODE = 'E_UNAUTHORIZED'
